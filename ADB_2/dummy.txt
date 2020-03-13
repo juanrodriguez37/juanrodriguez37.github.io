@@ -1,0 +1,1 @@
+ADB version 2 con emulador de android studio 
